@@ -1,8 +1,12 @@
-# Illuminations - Changelog
+# Illuminations - Changelog:
+
+### Illuminations 1.2.5 - 1.16.4
+- Fixed an issue that caused a crash when Illuminations servers aren't reachable
+- Updated to Minecraft 1.16.4
 
 ### Illuminations 1.2.4 - 20w45a
 - Removed bugballs, making the mod client-only again
-- Updated to snapshot 20w45a
+- Updated to Minecraft snapshot 20w45a
 
 ### Illuminations 1.2.3 - 1.16.3
 - Fixed an issue where server players using Illuminations would crash upon a player with an aura dying (again)
@@ -132,3 +136,6 @@ The great overhaul is here! Illuminations is now client only for better performa
 + Corrected firefly spawn rates
 + Fireflies now flicker
 + Changed the name of the mod from Lumen to Illuminations.
+
+
+ see full changelog [here](https://github.com/Ladysnake/Illuminations/blob/main/CHANGELOG.md "Changelog")
